@@ -1,0 +1,9 @@
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\bin\Debug\netcoreapp3.1\MathStat.deps.json
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\bin\Debug\netcoreapp3.1\MathStat.dll
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\bin\Debug\netcoreapp3.1\MathStat.pdb
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\obj\Debug\netcoreapp3.1\MathStat.csprojAssemblyReference.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\obj\Debug\netcoreapp3.1\MathStat.AssemblyInfoInputs.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\obj\Debug\netcoreapp3.1\MathStat.AssemblyInfo.cs
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\obj\Debug\netcoreapp3.1\MathStat.csproj.CoreCompileInputs.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\obj\Debug\netcoreapp3.1\MathStat.dll
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\MathStat\obj\Debug\netcoreapp3.1\MathStat.pdb

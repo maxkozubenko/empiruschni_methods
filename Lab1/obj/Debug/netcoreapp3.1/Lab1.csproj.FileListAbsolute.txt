@@ -1,0 +1,16 @@
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\MathStat.dll
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\bin\Debug\netcoreapp3.1\MathStat.pdb
+D:\Curse-4(1)\Емпіричні методи програмної інженерії\Лаби\Завдання\Лабораторна робота 1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CopyComplete
